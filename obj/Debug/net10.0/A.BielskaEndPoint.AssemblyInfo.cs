@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A.BielskaEndPoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cd3c1f19e5180e7d5e47af64a0f62bc09f711cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("A.BielskaEndPoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A.BielskaEndPoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
